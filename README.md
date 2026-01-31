@@ -8,7 +8,8 @@ At the end, the app reveals the chosen card at the exact position predicted by t
 
 No sleight of hand — just mathematics.
 ## Live Demo
-Check out the live app: https://manyone.github.io/your-repo-name/
+
+Check out the live app: https://manyone.github.io/card-trick-ternary/
 ---
 
 ## Background
@@ -46,5 +47,6 @@ Several of those issues were resolved with the debugging expertise of **ChatGPT*
    - `1` → chosen pile goes in the middle
    - `2` → chosen pile goes last
 4. After three rounds, the final position of the chosen card is:
+
 
 
