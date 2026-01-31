@@ -12,9 +12,9 @@ No sleight of hand — just mathematics.
 
 ## Background
 
-I originally encountered this trick in a **YouTube video presented by a mathematician**, where the underlying idea was explained using base-3 numbers.
+I originally encountered this trick in a **[YouTube video](https://www.youtube.com/watch?v=l7lP9y7Bb5g&t=275s) presented by a mathematician**, where the underlying idea was explained using base-3 numbers.
 
-Curious about translating the idea into software, I first implemented the trick as a **mobile app using MIT App Inventor 2**, and shared it with the App Inventor community.
+Curious about translating the idea into software, I first implemented the trick as a **[mobile app](https://community.appinventor.mit.edu/t/card-trick-magic-app-be-amazed-by-your-phone/152281) using MIT App Inventor 2**, and shared it with the App Inventor community.
 
 Later, I adapted the idea again as a **fully interactive web application**.
 
